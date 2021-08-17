@@ -2,7 +2,7 @@ Datos: Grupo 10
 
 -Daniel Alfonso Rudas Bohorquez 
  d.rudas@uniandes.edu.co
- 0X0X0X0X0X
+ 202112926
 
 
 
